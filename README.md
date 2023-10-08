@@ -1,5 +1,5 @@
 # MarkkuNiemi.github.io
-Markdown harjoitus
+<!--Markdown harjoitus-->
 ## Markku Niemi Web-tehtävä
 
 ### _Italics and Bold_
