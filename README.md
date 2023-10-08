@@ -1,4 +1,5 @@
 # Markun sivu
+theme: THEME-MODERNIST
 
 <!--Markdown harjoitus-->
 ## Markku Niemi Web-tehtävä
