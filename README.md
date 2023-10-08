@@ -33,11 +33,11 @@ Here's some words about the book _One Hundred Years..._.
 #### Reference links
 Do you want to [see something fun][a fun place]?
 
-[a fun place]: www.zombo.com
+[a fun place]: https://www.zombo.com
 
 Well, do I have [the website for you][another fun place]!
 
-[another fun place]: www.stumbleupon.com
+[another fun place]: https://www.stumbleupon.com
 
 ### _Images_
 
@@ -49,7 +49,7 @@ Well, do I have [the website for you][another fun place]!
 ![Orange cat][Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+[Orange]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 ### _Blockquotes_
 
